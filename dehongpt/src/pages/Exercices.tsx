@@ -4,7 +4,7 @@ import { CheckCircle2, BarChart2, Trophy, ArrowLeft, Filter } from 'lucide-react
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Progress } from '@/components/ui/progress';
-
+// ANGE KEVIN 
 const exercises = [
   {
     id: 'equations-second-degre',
