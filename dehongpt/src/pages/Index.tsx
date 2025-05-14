@@ -13,7 +13,7 @@ const Index = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link to="/" className="flex items-center">
-                <span className="text-2xl font-bold text-cyan-500">CleverTutor</span>
+                <span className="text-2xl font-bold text-cyan-500">LearnCI</span>
                 <span className="ml-2 text-xs px-2 py-0.5 bg-cyan-100 text-cyan-800 rounded-full">Beta</span>
               </Link>
             </div>
@@ -71,9 +71,6 @@ const Index = () => {
                   Commencer maintenant <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </Link>
-              <Button variant="outline" size="lg" className="rounded-full px-8 py-6 text-base border-slate-300">
-                <Volume2 className="mr-2 h-4 w-4" /> Choisir une voix
-              </Button>
             </div>
           </div>
         </section>
